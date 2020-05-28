@@ -1,0 +1,85 @@
+/******************************tagselectors*****************************/
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+  }
+
+  h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    line-height:2;
+  }
+  h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#11999E;
+  }
+body{
+  margin: 0;
+  text-align: center;
+}
+
+hr{
+  border-color: white;
+  border: none;
+}
+
+span{
+  text-decoration: underline;
+}
+/******************************classselectors*****************************/
+.h2{
+  font-weight: normal;
+}
+.skill-row{
+ display:block;
+ margin:100px auto;
+ width: 50%;
+ text-align: left;
+ line-height: 2;
+  }
+.btn{
+  color:#11999E ;
+}
+.imggg{
+  border-radius: 200px;
+}
+.cric{
+    border-radius: 200px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.name{
+  position: relative;
+  top: 50px;
+}
+.batmin{
+ border-radius: 200px;
+ width: 25%;
+ float: right;
+ margin-right: 30px;
+}
+
+.cricdef{
+  clear: left;
+}
+.batdef{
+  clear: right;
+}
+
+.bottom-cloud{
+position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left: 230px;
+}
+.topcontainer{
+  padding-top: 100px;
+  background-color: #faf4f4;
+    }
